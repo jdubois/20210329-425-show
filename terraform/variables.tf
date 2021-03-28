@@ -1,6 +1,6 @@
 variable "application_name" {
   description = "The name of your application"
-  default     = "judubois-the455show"
+  default     = "judubois-the425show"
 }
 
 variable "environment" {

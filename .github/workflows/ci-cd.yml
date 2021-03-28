@@ -44,5 +44,5 @@ jobs:
       - name: 'Deploy to Azure App Service'
         uses: azure/webapps-deploy@v2
         with:
-          app-name: app-judubois-the455show-001
+          app-name: app-judubois-the425show-001
           package: '*'
